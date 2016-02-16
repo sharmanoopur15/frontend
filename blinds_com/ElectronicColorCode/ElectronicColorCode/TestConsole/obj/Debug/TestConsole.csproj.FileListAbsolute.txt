@@ -1,0 +1,16 @@
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\TestConsole\bin\Debug\TestConsole.exe.config
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\TestConsole\bin\Debug\TestConsole.exe
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\TestConsole\bin\Debug\TestConsole.pdb
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\TestConsole\bin\Debug\ElectronicColorCode.dll
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\TestConsole\bin\Debug\ElectronicColorCode.pdb
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\TestConsole\obj\Debug\TestConsole.exe
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\TestConsole\obj\Debug\TestConsole.pdb
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\TestConsole\obj\Debug\TestConsole.pdb
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\TestConsole\bin\Debug\ElectronicColorCode.dll
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\TestConsole\bin\Debug\ElectronicColorCode.pdb
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache

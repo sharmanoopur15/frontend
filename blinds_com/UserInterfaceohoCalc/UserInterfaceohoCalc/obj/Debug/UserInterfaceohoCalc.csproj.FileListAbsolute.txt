@@ -1,0 +1,9 @@
+C:\Users\Noopur\Documents\Visual Studio 2013\Projects\UserInterfaceohoCalc\UserInterfaceohoCalc\bin\Debug\UserInterfaceohoCalc.exe.config
+C:\Users\Noopur\Documents\Visual Studio 2013\Projects\UserInterfaceohoCalc\UserInterfaceohoCalc\bin\Debug\UserInterfaceohoCalc.exe
+C:\Users\Noopur\Documents\Visual Studio 2013\Projects\UserInterfaceohoCalc\UserInterfaceohoCalc\bin\Debug\UserInterfaceohoCalc.pdb
+C:\Users\Noopur\Documents\Visual Studio 2013\Projects\UserInterfaceohoCalc\UserInterfaceohoCalc\obj\Debug\UserInterfaceohoCalc.csprojResolveAssemblyReference.cache
+C:\Users\Noopur\Documents\Visual Studio 2013\Projects\UserInterfaceohoCalc\UserInterfaceohoCalc\obj\Debug\UserInterfaceohoCalc.Form1.resources
+C:\Users\Noopur\Documents\Visual Studio 2013\Projects\UserInterfaceohoCalc\UserInterfaceohoCalc\obj\Debug\UserInterfaceohoCalc.Properties.Resources.resources
+C:\Users\Noopur\Documents\Visual Studio 2013\Projects\UserInterfaceohoCalc\UserInterfaceohoCalc\obj\Debug\UserInterfaceohoCalc.csproj.GenerateResource.Cache
+C:\Users\Noopur\Documents\Visual Studio 2013\Projects\UserInterfaceohoCalc\UserInterfaceohoCalc\obj\Debug\UserInterfaceohoCalc.exe
+C:\Users\Noopur\Documents\Visual Studio 2013\Projects\UserInterfaceohoCalc\UserInterfaceohoCalc\obj\Debug\UserInterfaceohoCalc.pdb

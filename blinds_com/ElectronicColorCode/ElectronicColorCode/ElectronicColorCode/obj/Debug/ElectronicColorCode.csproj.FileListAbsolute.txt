@@ -1,0 +1,10 @@
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\ElectronicColorCode\bin\Debug\ElectronicColorCode.dll
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\ElectronicColorCode\bin\Debug\ElectronicColorCode.pdb
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\ElectronicColorCode\obj\Debug\ElectronicColorCode.csprojResolveAssemblyReference.cache
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\ElectronicColorCode\obj\Debug\ElectronicColorCode.dll
+c:\users\jkodepaka\documents\visual studio 2012\Projects\ElectronicColorCode\ElectronicColorCode\obj\Debug\ElectronicColorCode.pdb
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\ElectronicColorCode\bin\Debug\ElectronicColorCode.dll
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\ElectronicColorCode\bin\Debug\ElectronicColorCode.pdb
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\ElectronicColorCode\obj\Debug\ElectronicColorCode.csprojResolveAssemblyReference.cache
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\ElectronicColorCode\obj\Debug\ElectronicColorCode.dll
+C:\Users\Noopur\Desktop\ElectronicColorCode\ElectronicColorCode\ElectronicColorCode\obj\Debug\ElectronicColorCode.pdb
